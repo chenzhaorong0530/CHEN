@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Welcome to Apprentice 2026 site
 
 Here is our study schedule. More assignment detials seen from web [HAITEC](http://haitec.top/).
@@ -14,3 +15,6 @@ Thursday, 10.00AM
 ## Regional Reviews
 Time:  
 Morning session: Tuesday, 10.00AM
+=======
+# CHEN
+>>>>>>> 7f87d6dfc3717f93ea1735a3f1aac01fe400681a
