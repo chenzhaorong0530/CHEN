@@ -1,6 +1,6 @@
 # About me
 
-<img src="./HAITEC_ecology.jpg" width="40%">
+<img src=
 
 Hello, my name is Chen Chen. I previously worked as a Product Operations Specialist at Tencent, and later moved into operations management at Diplomat. Since then, I have become a freelancer — an amateur cartoonist with a passion for interesting dreams, and a content creator. I love the vibrant world of animation, and I am committed to building a kingdom of dreams and fantasies that belongs to everyone.
 
