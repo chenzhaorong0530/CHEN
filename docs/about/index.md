@@ -1,6 +1,6 @@
 # About me
 
-<img src=
+<img src="../images/chenchen.jpg" width="40%">
 
 Hello, my name is Chen Chen. I previously worked as a Product Operations Specialist at Tencent, and later moved into operations management at Diplomat. Since then, I have become a freelancer — an amateur cartoonist with a passion for interesting dreams, and a content creator. I love the vibrant world of animation, and I am committed to building a kingdom of dreams and fantasies that belongs to everyone.
 
