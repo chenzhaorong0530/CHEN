@@ -1,6 +1,6 @@
 # About me
 
-<img src="https://gitlab.fabcloud.org/academany/fabacademy/2020/labs/oshanghai/students/pan-cheng/raw/a4bbb1ea61d44aebd7ebf56238d254c9cdffef80/docs/images/index/293245866.jpg" width="40%">  
+<img src="./HAITEC_ecology.jpg" width="40%">
 
 Hi，I'm *Cheng Pan*. A mechanical engineer; A STEM lesson Teacher; A lifelong learner.  
 
