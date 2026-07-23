@@ -13,6 +13,6 @@ I hold a management degree from Sanda University and an international finance de
 I previously worked in the User Growth Department of the QQ Operations Division at Tencent, where I was responsible for product operations of the "QQ Group Buying Snacks Fresh" business. My duties included delivering the entire H5 planning and coordinating with suppliers. On the launch day, the daily active users exceeded 1 million, and the monthly sales reached over 10 million RMB. I was also recognized as the "Monthly Star" of the User Growth Department.
 I later worked at Diplomat Luggage Group as an Operations Supervisor in the Operations Department. I managed the group’s JD.com POP store, VIP.com flagship store, and other e-commerce channels. I was named Outstanding Employee of the Year, and the business I oversaw achieved annual sales of over 60 million RMB. In addition, I was responsible for content management across livestreaming, offline runway show coordination, and on-site operations for VIP.com and JD.com.
 ## My Project
-12121212112
+121212121121212
 
 
