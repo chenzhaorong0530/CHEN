@@ -4,6 +4,9 @@
 
 Hello, my name is Chen Chen. I previously worked as a Product Operations Specialist at Tencent, and later moved into operations management at Diplomat. Since then, I have become a freelancer — an amateur cartoonist with a passion for interesting dreams, and a content creator. I love the vibrant world of animation, and I am committed to building a kingdom of dreams and fantasies that belongs to everyone.
 
+<img src="../images/mennalisha.jpg" width="31.2%"><img src="../images/manhua4.png" width="27.4%"><img src="../images/manhua5.png" width="28.15%">
+
+<img src="../images/shengshang3.png" width="35%"><img src="../images/shengshang2.jpg" width="33.5%">
 ## My background
 
 I hold a management degree from Sanda University and an international finance degree from Shanghai International Studies University. I studied classical fine arts for ten years and enjoy painting oils, illustrations, and sketches. I have my own serialized comic and have written short stories. I am a pragmatic doer who dreams of poetry and faraway places. Currently, I am the CEO of an AI education company, and I am now dedicated to developing AI+tech innovation business. I also hope to meet more like-minded friends to share our dreams, and I look forward to joining Fab Academy.
