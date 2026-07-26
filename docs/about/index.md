@@ -16,6 +16,11 @@ I hold a management degree from Sanda University and an international finance de
 I previously worked in the User Growth Department of the QQ Operations Division at Tencent, where I was responsible for product operations of the "QQ Group Buying Snacks Fresh" business. My duties included delivering the entire H5 planning and coordinating with suppliers. On the launch day, the daily active users exceeded 1 million, and the monthly sales reached over 10 million RMB. I was also recognized as the "Monthly Star" of the User Growth Department.
 I later worked at Diplomat Luggage Group as an Operations Supervisor in the Operations Department. I managed the group’s JD.com POP store, VIP.com flagship store, and other e-commerce channels. I was named Outstanding Employee of the Year, and the business I oversaw achieved annual sales of over 60 million RMB. In addition, I was responsible for content management across livestreaming, offline runway show coordination, and on-site operations for VIP.com and JD.com.
 ## My Project
-121212121121212
 
+<div style="text-align:center;"><img src="../images/caotu.jpg" width="40%"><img src="../images/caotu2.png" width="53.5%"><img src="../images/shapanfushitu.png" width="50%"></div>
+
+
+First, I drew a preliminary sketch of a village, which features buildings characteristic of the Miao ethnic minority, as well as a train that runs around the buildings. I then used AI tools to convert this picture into a model diagram of a sand table, thereby producing the foundational model image.
+
+My project is to build a warm and inviting miniature village. It will feature traditional, antique‑style houses, an old‑fashioned open‑air cinema that can actually show films, a train that automatically stops at the railway station, and a gentle yellow lighting system that illuminates the scene at night, creating a cozy atmosphere.
 
