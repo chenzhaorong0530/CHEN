@@ -1,6 +1,8 @@
-# 1.Laser Cutter Operation
+# learning
 
-## Equipment 
+
+## 1.Laser Cutter Operation
+
 * Concept: What is a Laser Cutting Machine?  
 A laser cutter is a precision manufacturing machine that uses a focused, high-powered laser beam to cut, melt, or vaporize materials. It's a type of computer-controlled cutting and is a subtractive manufacturing process, meaning it removes material to create the desired shape.
 
