@@ -12,7 +12,8 @@ How Does It Work?
 Step 1: Drawing Basic Shapes
 After opening LaserMaker, you will find the Drawing Toolbox on the left side. This contains the most frequently used tools.* Overview of Git  
 
-<img width="1820" height="1024" alt="Image" src="https://github.com/user-attachments/assets/7b477bd0-9d08-4aad-9024-7c32c1e52ffb" />  
+<div style="text-align:center;"><img src="../images/jianmojgqg.jpg" width="40%"></div>  
+
 
 
 Step 2: Connect the device and verify that the cooling water tank is functioning. The water tank provides cooling to ensure the machine operates properly under high‑temperature conditions.
