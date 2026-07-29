@@ -1,5 +1,4 @@
-# learning
-
+# Learning
 
 ## 1.Laser Cutter Operation
 
@@ -12,15 +11,19 @@ How Does It Work?
 
 Step 1: Drawing Basic Shapes
 After opening LaserMaker, you will find the Drawing Toolbox on the left side. This contains the most frequently used tools.* Overview of Git  
-<div style="text-align:center;"><img src="../images/jianmojgqg.jpg" width="60%"></div>  
+
+<div style="text-align:center;"><img src="../images/jianmojgqg.jpg" width="40%"></div>  
+
 
 
 Step 2: Connect the device and verify that the cooling water tank is functioning. The water tank provides cooling to ensure the machine operates properly under high‑temperature conditions.
+
 <div style="text-align:center;"><img src="../images/shuixiangjgqg.jpg" width="60%"></div>  
 
 Step 3: Ensure that the fume extractor is working properly to prevent the machine from being contaminated by smoke and dust.
 
 <div style="text-align:center;"><img src="../images/yanchenjinghuaqijgqg.jpg" width="60%"></div>  
+
 
 Step 4: Place weights on the material to hold it flat, but do not place anything on the top‑left corner, because the laser head will return to that position during homing and could collide with any obstruction.
 
