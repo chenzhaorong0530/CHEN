@@ -67,4 +67,4 @@ Step 4: Determine the zero point (origin) for the Z‑axis by carefully lowering
 
 Step 5: Close the safety door of the CNC machine. Because the machine operates with high‑speed rotating tools, it poses a serious risk to operators; always make sure that no one is inside the working area. Then power on the machine and start the cutting program. After the machining is complete and the tool has stopped, remove the workpiece and use sandpaper to sand the edges and surfaces for a smooth finish.
 
-I completed a desktop display sign as my first finished piece. Thank you 
+I completed a desktop display sign as my first finished piece. Thank you ！
