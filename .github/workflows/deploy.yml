@@ -1,4 +1,4 @@
-name: Deploy to GitHub Pages
+name: Deploy MkDocs to GitHub Pages
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
       - main # 触发分支
 
 permissions:
-  contents: write # 允许写入 gh-pages 分支
+  contents: write # 运行自动部署插件写入 gh-pages 分支
 
 jobs:
   deploy:
@@ -14,8 +14,20 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Deploy static site to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Configure Git
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./docs # 把 docs 文件夹的内容原样推到 gh-pages 分支
+          python-version: 3.x
+
+      - name: Install dependencies
+        run: |
+          pip install mkdocs-material
+
+      - name: Deploy
+        run: |
+          mkdocs gh-deploy --force
