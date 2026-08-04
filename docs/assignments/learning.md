@@ -11,7 +11,6 @@ How Does It Work?
 
 Step 1: Drawing Basic Shapes
 After opening LaserMaker, you will find the Drawing Toolbox on the left side. This contains the most frequently used tools.* Overview of Git  
-
 <div style="text-align:center;"><img src="../images/jianmojgqg.jpg" width="40%"></div>  
 
 
