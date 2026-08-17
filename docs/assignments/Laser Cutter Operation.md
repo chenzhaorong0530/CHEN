@@ -1,6 +1,4 @@
-# Learning
-
-## 1.Laser Cutter Operation
+# 1.Laser Cutter Operation
 
 * Concept: What is a Laser Cutting Machine?  
 A laser cutter is a precision manufacturing machine that uses a focused, high-powered laser beam to cut, melt, or vaporize materials. It's a type of computer-controlled cutting and is a subtractive manufacturing process, meaning it removes material to create the desired shape.
@@ -11,7 +9,8 @@ How Does It Work?1111
 
 Step 1: Drawing Basic Shapes
 After opening LaserMaker, you will find the Drawing Toolbox on the left side. This contains the most frequently used tools.* Overview of Git  
-<div style="text-align:center;"><img src="../images/caotu.jpg" width="40%"><img src="../images/caotu2.png" width="53.5%"><img src="../images/shapanfushitu.png" width="50%"></div>
+<img src="../images/shuixiangjgqg.jpg" width="40%">
+
 
 
 Step 2: Connect the device and verify that the cooling water tank is functioning. The water tank provides cooling to ensure the machine operates properly under high‑temperature conditions.
@@ -45,7 +44,7 @@ thanks!
 
 
 
-## 2.COMPUTER NUMERICAL CONTROL (CNC)  
+# 2.COMPUTER NUMERICAL CONTROL (CNC)  
 
 
 
