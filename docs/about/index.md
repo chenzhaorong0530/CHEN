@@ -24,3 +24,4 @@ First, I drew a preliminary sketch of a village, which features buildings charac
 
 My project is to build a warm and inviting miniature village. It will feature traditional, antique‑style houses, an old‑fashioned open‑air cinema that can actually show films, a train that automatically stops at the railway station, and a gentle yellow lighting system that illuminates the scene at night, creating a cozy atmosphere.
 
+![ddd](../docs/images/caotu.jpg)
