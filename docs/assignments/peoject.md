@@ -6,7 +6,7 @@
 Technologies: 3D printing, laser cutting, embedded programming (custom PCB), sensor integration (proximity/magnetic switches for train stopping), PWM-controlled LED lighting, and OLED display for the cinema.
 
 Over the past week, my primary efforts have been dedicated to establishing my GitHub repository and acquiring foundational knowledge in 3D modeling. In addition, I have preliminarily completed a conceptual design drawing. The design concept encompasses traditional Chinese Miao‑style vernacular architecture, integrated with a post‑industrial era steam train capable of stopping at a railway station, alongside a vintage open‑air cinema representative of modern China. These elements are brought together as a cohesive overall presentation.
-<div style="text-align:center;"><img src="../images/caotu.jpg" width="40%"><img src="../images/caotu2.png" width="53.5%"><img src="../images/shapanfushitu.png" width="50%"></div> 
+<div style="text-align:center;"><img src="../images/caotu.jpg" width="40%"><img src="../images/caotu2.png" width="53.5%"></div> 
 
 
 ## Technologies Required

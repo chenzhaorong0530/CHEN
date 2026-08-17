@@ -7,12 +7,11 @@ A laser cutter is a precision manufacturing machine that uses a focused, high-po
 
 The word LASER is an acronym for Light Amplification by Stimulated Emission of Radiation
 
-How Does It Work?
+How Does It Work?1111
 
 Step 1: Drawing Basic Shapes
 After opening LaserMaker, you will find the Drawing Toolbox on the left side. This contains the most frequently used tools.* Overview of Git  
-![](images/jianmojgqg.jpg)
-
+<div style="text-align:center;"><img src="../images/caotu.jpg" width="40%"><img src="../images/caotu2.png" width="53.5%"><img src="../images/shapanfushitu.png" width="50%"></div>
 
 
 Step 2: Connect the device and verify that the cooling water tank is functioning. The water tank provides cooling to ensure the machine operates properly under high‑temperature conditions.
